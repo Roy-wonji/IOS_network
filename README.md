@@ -78,14 +78,7 @@
 <img src="https://user-images.githubusercontent.com/75601594/152524144-d9c39b58-faaf-4dc2-80d3-ddc658802281.jpg" width="300" height="300">
 
 
-<img src="https://user-images.githubusercontent.com/75601594/152532351-c7352dd0-c4c2-45a1-a2cf-a544c0ff1181.mov" width="300" height="300">
-
-
-
-
-
-
-
+https://user-images.githubusercontent.com/75601594/152532351-c7352dd0-c4c2-45a1-a2cf-a544c0ff1181.mov
 
 참고자료 
 -- 
